@@ -1,2 +1,2 @@
 # Perl-Archive
-A set of Perl utilities
+A set of Perl utilities.
